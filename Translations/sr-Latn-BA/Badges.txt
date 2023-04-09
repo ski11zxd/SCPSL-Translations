@@ -30,11 +30,11 @@ SCP:SL Dizajner Nivoa
 SCP:SL Partner
 SCP:SL Patreon Podržavač
 SCP:SL Menadžer za Osiguravanje Kvaliteta
-SCP:SL Dizanjer Zvuka
+SCP:SL Dizajner Zvuka
 SCP:SL Direktor Igre
 SCP:SL Menadžer Zvaničnih Servera
-Northwood Speicjalista Verifikacije
-SCP:SL Anti-Cheat Develpoer
+Northwood Specijalista Verifikacije
+SCP:SL Anti-Cheat Developer
 SCP:SL Tester Osiguravanje Kvlatiteta
 SCP:SL Nadzornik Osiguravanje Kvaliteta
 SCP:SL Twitch Pretplatnik
